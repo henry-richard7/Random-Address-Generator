@@ -1,3 +1,6 @@
+# Badges
+![Downloads](https://img.shields.io/github/downloads/henry-richard7/Random-Address-Generator/total.svg?style=for-the-badge&logo=github)
+
 # Random-Address-Generator
 A MIT App Inventor Extension that can generate random valid address can be used in all app inventor forks.
 
